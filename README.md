@@ -72,5 +72,5 @@ Ex: python client.py user1 pass1
 **Note**
 
 - Updated changes are in **master** branch
-- Github link: https://github.com/sanjithpk/werewolves-rpc
+- Github link: https://github.com/chandannooli/Warevolves-gRPC
 - Video DEMO : https://youtu.be/EYTvpqYU8-Q
