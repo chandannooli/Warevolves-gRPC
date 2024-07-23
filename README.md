@@ -1,6 +1,6 @@
 # Group 22, CSE 536 Final Project
 
-Sanjith Kalveerappanavar, Pawan Kondebai, Chandan Nooli
+Chandan Nooli, Sanjith Kalveerappanavar, Pawan Kondebai, 
 
 To install, Python >= 3.7
 
@@ -63,8 +63,8 @@ Ex: python client.py user1 pass1
 
 8. Round 2 Voting ...
 
-![Connection](https://github.com/sanjithpk/werewolves-rpc/blob/master/screenshots/8_round2_vote.png)
-
+![Connection]https://github.com/sanjithpk/werewolves-rpc/blob/master/screenshots/8_round2_vote.png)
+(
 9. Finally Werewolves win in this game 🐺
 
 ![Connection](https://github.com/sanjithpk/werewolves-rpc/blob/master/screenshots/9_final.png)
